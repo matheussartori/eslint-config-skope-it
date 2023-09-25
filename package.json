@@ -1,7 +1,7 @@
 {
   "name": "@matheussartori/eslint-config-skope-it",
-  "version": "2.1.0",
-  "private": false,
+  "version": "1.0.0",
+  "main": "index.js",
   "description": "ESLint standards for Skope it.",
   "license": "MIT",
   "peerDependencies": {
